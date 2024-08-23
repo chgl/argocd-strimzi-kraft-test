@@ -1,0 +1,1 @@
+# argocd-strimzi-kraft-test
